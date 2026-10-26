@@ -1,0 +1,17 @@
+:root{--ink:#1f2a3a;--paper:#fbf8f1;--gold:#b08d3c;--muted:#5b6472;--line:#e6dfcf}
+*{box-sizing:border-box}body{margin:0;font-family:Georgia,"Times New Roman",serif;color:var(--ink);background:var(--paper);line-height:1.65}
+a{color:var(--ink)}header{border-bottom:1px solid var(--line);background:#fff}
+.wrap{max-width:1040px;margin:0 auto;padding:0 20px}
+.bar{display:flex;align-items:center;justify-content:space-between;gap:16px;padding:14px 0;flex-wrap:wrap}
+.brand{display:flex;align-items:center;gap:10px;text-decoration:none;font-size:1.25rem;font-weight:bold}.brand img{width:40px;height:40px}
+nav a{margin-left:18px;text-decoration:none;font-family:system-ui,sans-serif;font-size:.95rem}nav a:hover,nav a.on{color:var(--gold)}
+.hero{text-align:center;padding:72px 0 56px}.hero h1{font-size:2.4rem;margin:0 0 10px}
+blockquote{margin:24px auto;max-width:720px;font-style:italic;font-size:1.2rem;border-left:4px solid var(--gold);padding:8px 18px;text-align:left;background:#fff}
+blockquote cite{display:block;font-style:normal;font-size:.9rem;color:var(--muted);margin-top:6px}
+.btn{display:inline-block;background:var(--ink);color:#fff;padding:12px 22px;border-radius:8px;text-decoration:none;font-family:system-ui,sans-serif;margin-top:14px}.btn:hover{background:var(--gold)}
+section{padding:40px 0}h2{font-size:1.8rem}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px}.grid img{width:100%;border-radius:8px;border:1px solid var(--line);background:#fff}
+.card{background:#fff;border:1px solid var(--line);border-radius:10px;padding:22px}
+.product{display:grid;grid-template-columns:1fr 1fr;gap:32px}@media(max-width:760px){.product{grid-template-columns:1fr}}
+.free{display:inline-block;background:#efe6cf;color:#6b5420;padding:4px 10px;border-radius:999px;font-family:system-ui,sans-serif;font-size:.85rem}
+footer{border-top:1px solid var(--line);padding:28px 0;color:var(--muted);font-family:system-ui,sans-serif;font-size:.9rem;text-align:center;background:#fff;margin-top:40px}
