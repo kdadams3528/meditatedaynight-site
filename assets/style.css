@@ -55,9 +55,9 @@ header {
   height: auto;
 }
 .brand img.header-logo {
-  height: 150px;
+  height: 72px;
   width: auto;
-  max-width: min(720px, 92vw);
+  max-width: min(420px, 70vw);
 }
 .brand-name {
   font-size: 1.35rem;
@@ -101,6 +101,25 @@ nav a:hover, nav a.on {
   .site-banner img {
     max-width: none;
     width: 100%;
+  }
+}
+
+/* Slim nav-only sticky bar (logo lives in navy banner below) */
+header .bar {
+  justify-content: center;
+  padding: 10px 0;
+}
+header .bar .brand { display: none; }
+
+.site-banner--compact {
+  /* shorter strip on inner pages */
+}
+.site-banner--compact img {
+  max-width: 1200px;
+}
+@media (max-width: 640px) {
+  .site-banner--compact img {
+    max-width: none;
   }
 }
 
