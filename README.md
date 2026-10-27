@@ -1,8 +1,23 @@
-# MeditateDayNight.com
+# MeditateDayNight.com (site-v2)
 
-Static site for Meditate Day & Night (migrated from Shopify, Oct 2026). Plain HTML/CSS, hosted on GitHub Pages.
+Static HTML/CSS site for **Meditate Day & Night** — MeditateDayNight.com.
 
-- Pages: `index.html`, `about.html`, `products.html`, `contact.html`
-- `CNAME` = meditatedaynight.com
-- Design rules: no sun, moon, or star imagery; Scripture quotes are KJV.
-- Scripture Wallets are given away free; "Request one" opens an email, no checkout.
+Built for review on branch `site-v2`. Do not merge to the live Pages branch until Kevin approves.
+
+## Pages
+- `index.html` — Home / meditate on the Word (KJV quotes)
+- `request.html` — Free Scripture Wallet request form (FormSubmit → lawyeradams@me.com)
+- `why-kjv.html` — Why KJV only
+- `make-your-own.html` — System, scripture list, PNG downloads, AI prompt tip
+- `thanks.html` — Form thank-you
+- `contact.html` — Redirect to `request.html`
+- `404.html` — Not found
+- `CNAME` — meditatedaynight.com
+
+## Form backend
+FormSubmit.co to `lawyeradams@me.com`. First submission requires email confirmation.
+
+## Design rules
+- Scripture always KJV
+- Domain written MeditateDayNight.com
+- No sun, moon, or star imagery; no circle borders
