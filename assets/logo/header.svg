@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 720 120" role="img" aria-label="Meditate Day and Night — Psalm 1:2">
+  <rect width="720" height="120" fill="#ffffff"/>
+  <!-- Open Bible (left) -->
+  <g fill="none" stroke="#0F1E3D" stroke-width="3" stroke-linejoin="round">
+    <path d="M28 78 L28 38 L58 30 L88 38 L88 78 L58 70 Z"/>
+    <path d="M58 30 L58 70"/>
+  </g>
+  <!-- Cross through Bible, with wider gap before wordmark -->
+  <g stroke="#0F1E3D" stroke-width="4" stroke-linecap="round">
+    <line x1="58" y1="18" x2="58" y2="92"/>
+    <line x1="38" y1="38" x2="78" y2="38"/>
+  </g>
+  <text x="120" y="58" font-family="Georgia, 'Times New Roman', serif" font-size="34" font-weight="700" fill="#0F1E3D">MEDITATE DAY & NIGHT</text>
+  <text x="120" y="88" font-family="Georgia, 'Times New Roman', serif" font-size="18" letter-spacing="3" fill="#C9A24B">PSALM 1:2</text>
+</svg>
