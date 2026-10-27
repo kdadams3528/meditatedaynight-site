@@ -1,0 +1,562 @@
+[
+  {
+    "card": 1,
+    "side": "front",
+    "ref": "Psalm 1:1",
+    "file": "Card01_Front_Psalm_1_1.png",
+    "text": "Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful."
+  },
+  {
+    "card": 1,
+    "side": "back",
+    "ref": "Psalm 1:2",
+    "file": "Card01_Back_Psalm_1_2.png",
+    "text": "But his delight is in the law of the LORD; and in his law doth he meditate day and night."
+  },
+  {
+    "card": 2,
+    "side": "front",
+    "ref": "Psalm 1:3",
+    "file": "Card02_Front_Psalm_1_3.png",
+    "text": "And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper."
+  },
+  {
+    "card": 2,
+    "side": "back",
+    "ref": "Psalm 91:1",
+    "file": "Card02_Back_Psalm_91_1.png",
+    "text": "He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty."
+  },
+  {
+    "card": 3,
+    "side": "front",
+    "ref": "Hebrews 4:12",
+    "file": "Card03_Front_Hebrews_4_12.png",
+    "text": "For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart."
+  },
+  {
+    "card": 3,
+    "side": "back",
+    "ref": "Isaiah 55:11",
+    "file": "Card03_Back_Isaiah_55_11.png",
+    "text": "So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it."
+  },
+  {
+    "card": 4,
+    "side": "front",
+    "ref": "Proverbs 3:5",
+    "file": "Card04_Front_Proverbs_3_5.png",
+    "text": "Trust in the LORD with all thine heart; and lean not unto thine own understanding."
+  },
+  {
+    "card": 4,
+    "side": "back",
+    "ref": "Proverbs 3:6",
+    "file": "Card04_Back_Proverbs_3_6.png",
+    "text": "In all thy ways acknowledge him, and he shall direct thy paths."
+  },
+  {
+    "card": 5,
+    "side": "front",
+    "ref": "1 Corinthians 13:4",
+    "file": "Card05_Front_1Cor_13_4.png",
+    "text": "Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,"
+  },
+  {
+    "card": 5,
+    "side": "back",
+    "ref": "1 Corinthians 13:5",
+    "file": "Card05_Back_1Cor_13_5.png",
+    "text": "Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;"
+  },
+  {
+    "card": 6,
+    "side": "front",
+    "ref": "1 Corinthians 13:6",
+    "file": "Card06_Front_1Cor_13_6.png",
+    "text": "Rejoiceth not in iniquity, but rejoiceth in the truth;"
+  },
+  {
+    "card": 6,
+    "side": "back",
+    "ref": "1 Corinthians 13:7-8",
+    "file": "Card06_Back_1Cor_13_7_8.png",
+    "text": "Beareth all things, believeth all things, hopeth all things, endureth all things. Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away."
+  },
+  {
+    "card": 7,
+    "side": "front",
+    "ref": "John 1:1",
+    "file": "Card07_Front_John_1_1.png",
+    "text": "In the beginning was the Word, and the Word was with God, and the Word was God."
+  },
+  {
+    "card": 7,
+    "side": "back",
+    "ref": "John 1:4",
+    "file": "Card07_Back_John_1_4.png",
+    "text": "In him was life; and the life was the light of men."
+  },
+  {
+    "card": 8,
+    "side": "front",
+    "ref": "Romans 8:1",
+    "file": "Card08_Front_Romans_8_1.png",
+    "text": "There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit."
+  },
+  {
+    "card": 8,
+    "side": "back",
+    "ref": "Romans 8:2",
+    "file": "Card08_Back_Romans_8_2.png",
+    "text": "For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death."
+  },
+  {
+    "card": 9,
+    "side": "front",
+    "ref": "Romans 8:28",
+    "file": "Card09_Front_Romans_8_28.png",
+    "text": "And we know that all things work together for good to them that love God, to them who are the called according to his purpose."
+  },
+  {
+    "card": 9,
+    "side": "back",
+    "ref": "Romans 8:31",
+    "file": "Card09_Back_Romans_8_31.png",
+    "text": "What shall we then say to these things? If God be for us, who can be against us?"
+  },
+  {
+    "card": 10,
+    "side": "front",
+    "ref": "Romans 8:33",
+    "file": "Card10_Front_Romans_8_33.png",
+    "text": "Who shall lay any thing to the charge of God's elect? It is God that justifieth."
+  },
+  {
+    "card": 10,
+    "side": "back",
+    "ref": "Romans 8:34",
+    "file": "Card10_Back_Romans_8_34.png",
+    "text": "Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us."
+  },
+  {
+    "card": 11,
+    "side": "front",
+    "ref": "Romans 12:1",
+    "file": "Card11_Front_Romans_12_1.png",
+    "text": "I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service."
+  },
+  {
+    "card": 11,
+    "side": "back",
+    "ref": "Romans 12:2",
+    "file": "Card11_Back_Romans_12_2.png",
+    "text": "And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God."
+  },
+  {
+    "card": 12,
+    "side": "front",
+    "ref": "Ephesians 1:3",
+    "file": "Card12_Front_Ephesians_1_3.png",
+    "text": "Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:"
+  },
+  {
+    "card": 12,
+    "side": "back",
+    "ref": "Ephesians 1:4",
+    "file": "Card12_Back_Ephesians_1_4.png",
+    "text": "According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:"
+  },
+  {
+    "card": 13,
+    "side": "front",
+    "ref": "Ephesians 2:8",
+    "file": "Card13_Front_Ephesians_2_8.png",
+    "text": "For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:"
+  },
+  {
+    "card": 13,
+    "side": "back",
+    "ref": "Ephesians 2:9",
+    "file": "Card13_Back_Ephesians_2_9.png",
+    "text": "Not of works, lest any man should boast."
+  },
+  {
+    "card": 14,
+    "side": "front",
+    "ref": "Ephesians 2:10",
+    "file": "Card14_Front_Ephesians_2_10.png",
+    "text": "For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them."
+  },
+  {
+    "card": 14,
+    "side": "back",
+    "ref": "Philippians 1:6",
+    "file": "Card14_Back_Philippians_1_6.png",
+    "text": "Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:"
+  },
+  {
+    "card": 15,
+    "side": "front",
+    "ref": "Hebrews 11:1 & 2 Corinthians 5:7",
+    "file": "Card15_Front_Heb11_1_and_2Cor5_7.png",
+    "text": "Now faith is the substance of things hoped for, the evidence of things not seen. (For we walk by faith, not by sight:)"
+  },
+  {
+    "card": 15,
+    "side": "back",
+    "ref": "Hebrews 11:6",
+    "file": "Card15_Back_Hebrews_11_6.png",
+    "text": "But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him."
+  },
+  {
+    "card": 16,
+    "side": "front",
+    "ref": "Galatians 5:22",
+    "file": "Card16_Front_Galatians_5_22.png",
+    "text": "But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,"
+  },
+  {
+    "card": 16,
+    "side": "back",
+    "ref": "Galatians 5:23",
+    "file": "Card16_Back_Galatians_5_23.png",
+    "text": "Meekness, temperance: against such there is no law."
+  },
+  {
+    "card": 17,
+    "side": "front",
+    "ref": "Psalm 23:1",
+    "file": "Card17_Front_Psalm_23_1.png",
+    "text": "The LORD is my shepherd; I shall not want."
+  },
+  {
+    "card": 17,
+    "side": "back",
+    "ref": "John 10:14",
+    "file": "Card17_Back_John_10_14.png",
+    "text": "I am the good shepherd, and know my sheep, and am known of mine."
+  },
+  {
+    "card": 18,
+    "side": "front",
+    "ref": "Philippians 4:8",
+    "file": "Card18_Front_Philippians_4_8.png",
+    "text": "Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things."
+  },
+  {
+    "card": 18,
+    "side": "back",
+    "ref": "2 Timothy 1:7",
+    "file": "Card18_Back_2Timothy_1_7.png",
+    "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+  },
+  {
+    "card": 19,
+    "side": "front",
+    "ref": "2 Corinthians 5:17",
+    "file": "Card19_Front_2Corinthians_5_17.png",
+    "text": "Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new."
+  },
+  {
+    "card": 19,
+    "side": "back",
+    "ref": "1 Corinthians 6:19",
+    "file": "Card19_Back_1Corinthians_6_19.png",
+    "text": "What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?"
+  },
+  {
+    "card": 20,
+    "side": "front",
+    "ref": "Romans 5:17",
+    "file": "Card20_Front_Romans_5_17.png",
+    "text": "For if by one man's offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.)"
+  },
+  {
+    "card": 20,
+    "side": "back",
+    "ref": "Romans 10:17",
+    "file": "Card20_Back_Romans_10_17.png",
+    "text": "So then faith cometh by hearing, and hearing by the word of God."
+  },
+  {
+    "card": 21,
+    "side": "front",
+    "ref": "Hebrews 11:3",
+    "file": "Card21_Front_Hebrews_11_3.png",
+    "text": "Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear."
+  },
+  {
+    "card": 21,
+    "side": "back",
+    "ref": "2 Corinthians 4:18",
+    "file": "Card21_Back_2Corinthians_4_18.png",
+    "text": "While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal."
+  },
+  {
+    "card": 22,
+    "side": "front",
+    "ref": "Mark 11:23",
+    "file": "Card22_Front_Mark_11_23.png",
+    "text": "For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith."
+  },
+  {
+    "card": 22,
+    "side": "back",
+    "ref": "Mark 11:24",
+    "file": "Card22_Back_Mark_11_24.png",
+    "text": "Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them."
+  },
+  {
+    "card": 23,
+    "side": "front",
+    "ref": "Philippians 4:13",
+    "file": "Card23_Front_Philippians_4_13.png",
+    "text": "I can do all things through Christ which strengtheneth me."
+  },
+  {
+    "card": 23,
+    "side": "back",
+    "ref": "Philippians 4:19",
+    "file": "Card23_Back_Philippians_4_19.png",
+    "text": "But my God shall supply all your need according to his riches in glory by Christ Jesus."
+  },
+  {
+    "card": 24,
+    "side": "front",
+    "ref": "John 3:16",
+    "file": "Card24_Front_John_3_16.png",
+    "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life."
+  },
+  {
+    "card": 24,
+    "side": "back",
+    "ref": "Romans 10:10",
+    "file": "Card24_Back_Romans_10_10.png",
+    "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation."
+  },
+  {
+    "card": 25,
+    "side": "front",
+    "ref": "2 Corinthians 8:9",
+    "file": "Card25_Front_2Corinthians_8_9.png",
+    "text": "For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich."
+  },
+  {
+    "card": 25,
+    "side": "back",
+    "ref": "Romans 10:17",
+    "file": "Card25_Back_Romans_10_17.png",
+    "text": "So then faith cometh by hearing, and hearing by the word of God."
+  },
+  {
+    "card": 26,
+    "side": "front",
+    "ref": "John 14:12",
+    "file": "Card26_Front_John_14_12.png",
+    "text": "Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father."
+  },
+  {
+    "card": 26,
+    "side": "back",
+    "ref": "John 14:13",
+    "file": "Card26_Back_John_14_13.png",
+    "text": "And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son."
+  },
+  {
+    "card": 27,
+    "side": "front",
+    "ref": "2 Corinthians 6:14",
+    "file": "Card27_Front_2Corinthians_6_14.png",
+    "text": "Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?"
+  },
+  {
+    "card": 27,
+    "side": "back",
+    "ref": "2 Corinthians 6:16",
+    "file": "Card27_Back_2Corinthians_6_16.png",
+    "text": "And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people."
+  },
+  {
+    "card": 28,
+    "side": "front",
+    "ref": "2 Corinthians 6:18",
+    "file": "Card28_Front_2Corinthians_6_18.png",
+    "text": "And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty."
+  },
+  {
+    "card": 28,
+    "side": "back",
+    "ref": "2 Corinthians 6:17",
+    "file": "Card28_Back_2Corinthians_6_17.png",
+    "text": "Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,"
+  },
+  {
+    "card": 29,
+    "side": "front",
+    "ref": "2 Timothy 1:7",
+    "file": "Card29_Front_2Timothy_1_7.png",
+    "text": "For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind."
+  },
+  {
+    "card": 29,
+    "side": "back",
+    "ref": "1 John 4:18",
+    "file": "Card29_Back_1John_4_18.png",
+    "text": "There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love."
+  },
+  {
+    "card": 30,
+    "side": "front",
+    "ref": "Psalm 127:1",
+    "file": "Card30_Front_Psalm_127_1.png",
+    "text": "Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain."
+  },
+  {
+    "card": 30,
+    "side": "back",
+    "ref": "Psalm 18:32",
+    "file": "Card30_Back_Psalm_18_32.png",
+    "text": "It is God that girdeth me with strength, and maketh my way perfect."
+  },
+  {
+    "card": 31,
+    "side": "front",
+    "ref": "Ephesians 4:23",
+    "file": "Card31_Front_Ephesians_4_23.png",
+    "text": "And be renewed in the spirit of your mind;"
+  },
+  {
+    "card": 31,
+    "side": "back",
+    "ref": "Ephesians 4:24",
+    "file": "Card31_Back_Ephesians_4_24.png",
+    "text": "And that ye put on the new man, which after God is created in righteousness and true holiness."
+  },
+  {
+    "card": 32,
+    "side": "front",
+    "ref": "1 Peter 2:24",
+    "file": "Card32_Front_1Peter_2_24.png",
+    "text": "Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed."
+  },
+  {
+    "card": 32,
+    "side": "back",
+    "ref": "3 John 1:2",
+    "file": "Card32_Back_3John_1_2.png",
+    "text": "Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth."
+  },
+  {
+    "card": 33,
+    "side": "front",
+    "ref": "John 15:7",
+    "file": "Card33_Front_John_15_7.png",
+    "text": "If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you."
+  },
+  {
+    "card": 33,
+    "side": "back",
+    "ref": "John 15:8",
+    "file": "Card33_Back_John_15_8.png",
+    "text": "Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples."
+  },
+  {
+    "card": 34,
+    "side": "front",
+    "ref": "Psalm 91:9",
+    "file": "Card34_Front_Psalm_91_9.png",
+    "text": "Because thou hast made the LORD, which is my refuge, even the most High, thy habitation;"
+  },
+  {
+    "card": 34,
+    "side": "back",
+    "ref": "Psalm 91:10",
+    "file": "Card34_Back_Psalm_91_10.png",
+    "text": "There shall no evil befall thee, neither shall any plague come nigh thy dwelling."
+  },
+  {
+    "card": 35,
+    "side": "front",
+    "ref": "Psalm 91:11",
+    "file": "Card35_Front_Psalm_91_11.png",
+    "text": "For he shall give his angels charge over thee, to keep thee in all thy ways."
+  },
+  {
+    "card": 35,
+    "side": "back",
+    "ref": "Psalm 91:12",
+    "file": "Card35_Back_Psalm_91_12.png",
+    "text": "They shall bear thee up in their hands, lest thou dash thy foot against a stone."
+  },
+  {
+    "card": 36,
+    "side": "front",
+    "ref": "Mark 9:23",
+    "file": "Card36_Front_Mark_9_23.png",
+    "text": "Jesus said unto him, If thou canst believe, all things are possible to him that believeth."
+  },
+  {
+    "card": 36,
+    "side": "back",
+    "ref": "Mark 11:22",
+    "file": "Card36_Back_Mark_11_22.png",
+    "text": "And Jesus answering saith unto them, Have faith in God."
+  },
+  {
+    "card": 37,
+    "side": "front",
+    "ref": "Luke 17:19",
+    "file": "Card37_Front_Luke_17_19.png",
+    "text": "And he said unto him, Arise, go thy way: thy faith hath made thee whole."
+  },
+  {
+    "card": 37,
+    "side": "back",
+    "ref": "Matthew 9:22",
+    "file": "Card37_Back_Matthew_9_22.png",
+    "text": "But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour."
+  },
+  {
+    "card": 38,
+    "side": "front",
+    "ref": "Psalm 107:20",
+    "file": "Card38_Front_Psalm_107_20.png",
+    "text": "He sent his word, and healed them, and delivered them from their destructions."
+  },
+  {
+    "card": 38,
+    "side": "back",
+    "ref": "Matthew 8:16",
+    "file": "Card38_Back_Matthew_8_16.png",
+    "text": "When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:"
+  },
+  {
+    "card": 39,
+    "side": "front",
+    "ref": "Proverbs 30:5",
+    "file": "Card39_Front_Proverbs_30_5.png",
+    "text": "Every word of God is pure: he is a shield unto them that put their trust in him."
+  },
+  {
+    "card": 39,
+    "side": "back",
+    "ref": "Luke 4:4",
+    "file": "Card39_Back_Luke_4_4.png",
+    "text": "And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God."
+  },
+  {
+    "card": 40,
+    "side": "front",
+    "ref": "John 6:63",
+    "file": "Card40_Front_John_6_63.png",
+    "text": "It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life."
+  },
+  {
+    "card": 40,
+    "side": "back",
+    "ref": "John 17:17",
+    "file": "Card40_Back_John_17_17.png",
+    "text": "Sanctify them through thy truth: thy word is truth."
+  }
+]
