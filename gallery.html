@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gallery | Meditate Day &amp; Night</title>
+<meta name="description" content="Photos of the finished Scripture Wallet from Meditate Day &amp; Night.">
+<link rel="icon" href="assets/logo/logo-navy.png" type="image/png">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="assets/style.css">
+
+<style>
+.g-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(240px,1fr));gap:18px;margin:1.5rem 0}
+.g-item{margin:0;background:#fff;border-radius:8px;overflow:hidden;box-shadow:0 2px 8px rgba(0,0,0,.12)}
+.g-item img{width:100%;aspect-ratio:4/3;object-fit:cover;display:block;cursor:zoom-in}
+.g-item figcaption{padding:.6rem .8rem;font-size:.95rem}
+#lb{position:fixed;inset:0;background:rgba(10,20,45,.92);display:none;align-items:center;justify-content:center;flex-direction:column;z-index:999;padding:1rem}
+#lb.open{display:flex}#lb img{max-width:95vw;max-height:82vh;border-radius:6px}
+#lb p{color:#fff;margin:.8rem 0 0}#lb button{position:absolute;background:none;border:0;color:#fff;font-size:2.4rem;cursor:pointer;padding:.5rem 1rem}
+#lb .x{top:.5rem;right:.5rem}#lb .pv{left:.3rem;top:50%}#lb .nx{right:.3rem;top:50%}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap bar">
+    <nav aria-label="Main">
+      <a href="index.html">Home</a>
+      <a href="request.html">Request a Wallet</a>
+      <a href="why-kjv.html">Why KJV</a>
+      <a href="make-your-own.html">Make Your Own</a>
+      <a href="gallery.html" class="on">Gallery</a>
+      <a href="contact.html">Contact Us</a>
+    </nav>
+  </div>
+</header>
+<div class="site-banner site-banner--compact" role="img" aria-label="Meditate Day and Night — Psalm 1:2 — MeditateDayNight.com">
+  <img src="assets/images/website-banner-navy.png" alt="Meditate Day &amp; Night logo with Psalm 1:2 and MeditateDayNight.com on navy" width="2400" height="900" decoding="async">
+</div>
+<main class="wrap">
+<section>
+  <h1>Scripture Wallet Gallery</h1>
+  <p>Here is what a finished Scripture Wallet looks like: engraved front and back covers, the King James Scripture cards, and the band that holds it together. Tap any photo to enlarge it.</p>
+<div class="g-grid">
+  <figure class="g-item"><a href="assets/gallery/wallet-front-banded.jpg" data-cap="The finished wallet, front"><img src="assets/gallery/wallet-front-banded-thumb.jpg" alt="Finished Scripture Wallet: black front cover with Meditate Day &amp; Night logo, Psalm 1:2 and MeditateDayNight.com, held by a black band" loading="lazy"></a><figcaption>The finished wallet, front</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/wallet-back-banded.jpg" data-cap="The back plate"><img src="assets/gallery/wallet-back-banded-thumb.jpg" alt="Scripture Wallet back plate reading &ldquo;For more wallets, visit our website. MeditateDayNight.com&rdquo; with black band" loading="lazy"></a><figcaption>The back plate</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/front-cover-and-band.jpg" data-cap="Front cover and band"><img src="assets/gallery/front-cover-and-band-thumb.jpg" alt="Front cover engraved Meditate Day &amp; Night Scripture Wallet beside the black elastic band" loading="lazy"></a><figcaption>Front cover and band</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/back-cover.jpg" data-cap="Back cover gift message"><img src="assets/gallery/back-cover-thumb.jpg" alt="Back cover explaining the Scripture Wallet is a free gift to help you meditate on and memorize God&rsquo;s Word" loading="lazy"></a><figcaption>Back cover gift message</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/cards-spread.jpg" data-cap="The Scripture cards"><img src="assets/gallery/cards-spread-thumb.jpg" alt="Black Scripture cards laid out in rows, each engraved with a King James verse" loading="lazy"></a><figcaption>The Scripture cards</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/covers-and-cards.jpg" data-cap="Covers with the full card set"><img src="assets/gallery/covers-and-cards-thumb.jpg" alt="Front and back covers with the full set of Scripture cards" loading="lazy"></a><figcaption>Covers with the full card set</figcaption></figure>
+  <figure class="g-item"><a href="assets/gallery/wallet-in-hand.jpg" data-cap="Pocket sized"><img src="assets/gallery/wallet-in-hand-thumb.jpg" alt="The banded Scripture Wallet held in one hand to show its size" loading="lazy"></a><figcaption>Pocket sized</figcaption></figure>
+</div>
+  <div class="cta-row"><a class="btn" href="request.html">Request a free Scripture Wallet</a> <a class="btn outline" href="make-your-own.html">Make your own</a></div>
+</section>
+</main>
+<div id="lb" role="dialog" aria-modal="true" aria-label="Photo viewer"><button class="x" aria-label="Close">&times;</button><button class="pv" aria-label="Previous">&#8249;</button><img alt=""><p></p><button class="nx" aria-label="Next">&#8250;</button></div>
+<script>
+(function(){var a=[].slice.call(document.querySelectorAll('.g-item a')),lb=document.getElementById('lb'),im=lb.querySelector('img'),cp=lb.querySelector('p'),i=0;
+function show(k){i=(k+a.length)%a.length;im.src=a[i].href;im.alt=a[i].querySelector('img').alt;cp.textContent=a[i].dataset.cap;lb.classList.add('open');}
+a.forEach(function(el,k){el.addEventListener('click',function(e){e.preventDefault();show(k);});});
+lb.querySelector('.x').onclick=function(){lb.classList.remove('open');};
+lb.querySelector('.pv').onclick=function(e){e.stopPropagation();show(i-1);};
+lb.querySelector('.nx').onclick=function(e){e.stopPropagation();show(i+1);};
+lb.addEventListener('click',function(e){if(e.target===lb)lb.classList.remove('open');});
+document.addEventListener('keydown',function(e){if(!lb.classList.contains('open'))return;if(e.key==='Escape')lb.classList.remove('open');if(e.key==='ArrowLeft')show(i-1);if(e.key==='ArrowRight')show(i+1);});})();
+</script>
+<footer>
+  <div class="wrap">
+    <p><strong>MeditateDayNight.com</strong> · Meditate Day &amp; Night</p>
+    <p><a href="contact.html">Contact Us</a> · Kevin Adams · <a href="tel:+19182309513">(918) 230-9513</a> · <a href="mailto:lawyeradams@me.com">lawyeradams@me.com</a></p>
+    <p>&ldquo;But his delight is in the law of the LORD; and in his law doth he meditate day and night.&rdquo; — Psalm 1:2 (KJV)</p>
+    <p>&copy; 2026 Meditate Day &amp; Night. Scripture quotations are from the King James Version.</p>
+  </div>
+</footer>
+</body>
+</html>
