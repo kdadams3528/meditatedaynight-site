@@ -21,11 +21,15 @@
 #lb p{color:#fff;margin:.8rem 0 0}#lb button{position:absolute;background:none;border:0;color:#fff;font-size:2.4rem;cursor:pointer;padding:.5rem 1rem}
 #lb .x{top:.5rem;right:.5rem}#lb .pv{left:.3rem;top:50%}#lb .nx{right:.3rem;top:50%}
 </style>
+<script>document.documentElement.className+=" js"</script>
+<script src="assets/nav.js" defer></script>
 </head>
 <body>
 <header>
   <div class="wrap bar">
-    <nav aria-label="Main">
+    <a class="m-brand" href="index.html"><img src="assets/logo/logo-navy.png" alt="" width="32" height="32"><span>Meditate Day &amp; Night</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav"><span class="nav-toggle-icon" aria-hidden="true"></span>Menu</button>
+    <nav aria-label="Main" id="main-nav">
       <a href="index.html">Home</a>
       <a href="request.html">Request a Wallet</a>
       <a href="why-kjv.html">Why KJV</a>

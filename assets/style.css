@@ -366,3 +366,26 @@ footer strong { color: var(--navy); }
   position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px;
   overflow: hidden; clip: rect(0,0,0,0); border: 0;
 }
+
+/* ===== Phone header: compact bar + Menu dropdown ===== */
+.m-brand, .nav-toggle { display: none; }
+@media (max-width: 760px) {
+  header .bar { padding: 0; min-height: 56px; justify-content: space-between; flex-wrap: wrap; gap: 0; }
+  .m-brand { display: flex; align-items: center; gap: 8px; text-decoration: none; color: #fff !important; font-family: "Cormorant Garamond", Georgia, serif; font-weight: 600; font-size: 1.2rem; min-height: 56px; }
+  .m-brand img { width: 32px; height: 32px; border-radius: 4px; }
+  .nav-toggle { display: inline-flex; align-items: center; gap: 8px; background: transparent; color: #fff; border: 1.5px solid rgba(255,255,255,.55); border-radius: 8px; padding: 8px 14px; font: 700 1rem Lato, sans-serif; min-height: 44px; cursor: pointer; }
+  .nav-toggle:focus-visible { outline: 2px solid var(--gold); outline-offset: 2px; }
+  .nav-toggle-icon, .nav-toggle-icon::before, .nav-toggle-icon::after { display: block; width: 18px; height: 2px; background: currentColor; position: relative; }
+  .nav-toggle-icon::before, .nav-toggle-icon::after { content: ""; position: absolute; left: 0; }
+  .nav-toggle-icon::before { top: -6px; } .nav-toggle-icon::after { top: 6px; }
+  header.nav-open .nav-toggle { color: var(--gold); border-color: var(--gold); }
+  nav { flex-direction: column; align-items: stretch; gap: 4px; padding: 6px 0 14px; width: 100%; }
+  nav a { flex: none; display: flex; justify-content: flex-start; text-align: left; font-size: 1.15rem; padding: 13px 14px; min-height: 48px; }
+  .js nav { display: none; }
+  .js header.nav-open nav { display: flex; }
+  /* no-JS: no toggle, links stay visible as a compact list */
+  html:not(.js) .nav-toggle { display: none; }
+  .site-banner img, .site-banner--compact img { width: 100%; height: auto; max-width: none; }
+  .site-banner--compact { background: #0b1a37; }
+  .site-banner--compact img { height: 110px; object-fit: contain; }
+}

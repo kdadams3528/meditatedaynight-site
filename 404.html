@@ -11,11 +11,15 @@
 <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,600;1,600&family=Lato:wght@400;700&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="assets/style.css">
 
+<script>document.documentElement.className+=" js"</script>
+<script src="assets/nav.js" defer></script>
 </head>
 <body>
 <header>
   <div class="wrap bar">
-    <nav aria-label="Main">
+    <a class="m-brand" href="index.html"><img src="assets/logo/logo-navy.png" alt="" width="32" height="32"><span>Meditate Day &amp; Night</span></a>
+    <button class="nav-toggle" type="button" aria-expanded="false" aria-controls="main-nav"><span class="nav-toggle-icon" aria-hidden="true"></span>Menu</button>
+    <nav aria-label="Main" id="main-nav">
       <a href="index.html" class="on">Home</a>
       <a href="request.html">Request a Wallet</a>
       <a href="why-kjv.html">Why KJV</a>
