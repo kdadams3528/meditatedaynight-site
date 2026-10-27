@@ -30,18 +30,19 @@ img { max-width: 100%; height: auto; display: block; }
 .wrap { max-width: var(--max); margin: 0 auto; padding: 0 20px; }
 
 header {
-  background: var(--white);
-  border-bottom: 1px solid var(--line);
+  background: var(--navy);
+  border-bottom: none;
   position: sticky;
   top: 0;
   z-index: 50;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.18);
 }
 .bar {
   display: flex;
   align-items: center;
-  justify-content: space-between;
-  gap: 16px;
-  padding: 12px 0;
+  justify-content: center;
+  gap: 12px;
+  padding: 14px 0;
   flex-wrap: wrap;
 }
 .brand {
@@ -67,20 +68,64 @@ header {
 nav {
   display: flex;
   flex-wrap: wrap;
-  gap: 6px 16px;
+  gap: 8px 10px;
   align-items: center;
+  justify-content: center;
+  width: 100%;
 }
 nav a {
   text-decoration: none;
-  font-size: 0.95rem;
-  color: var(--navy);
-  padding: 4px 0;
-  border-bottom: 2px solid transparent;
+  font-size: 1.3rem;
+  font-weight: 700;
+  letter-spacing: 0.01em;
+  color: #ffffff !important;
+  padding: 12px 18px;
+  border-radius: 8px;
+  border-bottom: none;
+  line-height: 1.2;
+  transition: background 0.15s ease, color 0.15s ease, box-shadow 0.15s ease;
 }
-nav a:hover, nav a.on {
-  color: var(--gold);
-  border-bottom-color: var(--gold);
+nav a:hover {
+  background: rgba(255, 255, 255, 0.14);
+  color: var(--gold) !important;
 }
+nav a.on {
+  background: rgba(201, 162, 75, 0.28);
+  color: var(--gold) !important;
+  box-shadow: inset 0 -3px 0 var(--gold);
+}
+nav a:focus-visible {
+  outline: 2px solid var(--gold);
+  outline-offset: 2px;
+}
+
+
+/* Mobile: large wrap-friendly tap targets */
+@media (max-width: 720px) {
+  header .bar { padding: 10px 0 12px; }
+  nav {
+    gap: 8px;
+  }
+  nav a {
+    flex: 1 1 calc(50% - 8px);
+    text-align: center;
+    font-size: 1.15rem;
+    font-weight: 700;
+    padding: 14px 10px;
+    min-height: 48px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+}
+@media (max-width: 380px) {
+  nav a {
+    flex: 1 1 100%;
+    font-size: 1.2rem;
+    padding: 16px 12px;
+  }
+}
+
 
 
 /* Full-width home hero banner (below nav) */
@@ -104,11 +149,7 @@ nav a:hover, nav a.on {
   }
 }
 
-/* Slim nav-only sticky bar (logo lives in navy banner below) */
-header .bar {
-  justify-content: center;
-  padding: 10px 0;
-}
+/* Logo lives in navy banner below; brand slot unused */
 header .bar .brand { display: none; }
 
 .site-banner--compact {
@@ -228,7 +269,6 @@ li { margin-bottom: 6px; }
 }
 @media (max-width: 800px) {
   .two-col { grid-template-columns: 1fr; }
-  .brand img.header-logo { height: 110px; max-width: 92vw; }
 }
 
 /* Forms */
