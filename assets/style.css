@@ -82,9 +82,31 @@ nav a:hover, nav a.on {
   border-bottom-color: var(--gold);
 }
 
+
+/* Full-width home hero banner (below nav) */
+.site-banner {
+  width: 100%;
+  background: #0F1E3D;
+  line-height: 0;
+  overflow: hidden;
+}
+.site-banner img {
+  width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+  max-width: 1600px; /* keep mark readable on ultra-wide */
+}
+@media (max-width: 640px) {
+  .site-banner img {
+    max-width: none;
+    width: 100%;
+  }
+}
+
 .hero {
   text-align: center;
-  padding: 56px 0 40px;
+  padding: 36px 0 40px;
 }
 .hero h1 {
   font-size: clamp(2rem, 5vw, 2.75rem);
