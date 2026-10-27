@@ -55,9 +55,9 @@ header {
   height: auto;
 }
 .brand img.header-logo {
-  height: 56px;
+  height: 150px;
   width: auto;
-  max-width: min(420px, 70vw);
+  max-width: min(720px, 92vw);
 }
 .brand-name {
   font-size: 1.35rem;
@@ -187,7 +187,7 @@ li { margin-bottom: 6px; }
 }
 @media (max-width: 800px) {
   .two-col { grid-template-columns: 1fr; }
-  .brand img.header-logo { height: 44px; }
+  .brand img.header-logo { height: 110px; max-width: 92vw; }
 }
 
 /* Forms */
