@@ -1,0 +1,80 @@
+Card 1 Front	Psalm 1:1	Blessed is the man that walketh not in the counsel of the ungodly, nor standeth in the way of sinners, nor sitteth in the seat of the scornful.
+Card 1 Back	Psalm 1:2	But his delight is in the law of the LORD; and in his law doth he meditate day and night.
+Card 2 Front	Psalm 1:3	And he shall be like a tree planted by the rivers of water, that bringeth forth his fruit in his season; his leaf also shall not wither; and whatsoever he doeth shall prosper.
+Card 2 Back	Psalm 91:1	He that dwelleth in the secret place of the most High shall abide under the shadow of the Almighty.
+Card 3 Front	Hebrews 4:12	For the word of God is quick, and powerful, and sharper than any twoedged sword, piercing even to the dividing asunder of soul and spirit, and of the joints and marrow, and is a discerner of the thoughts and intents of the heart.
+Card 3 Back	Isaiah 55:11	So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
+Card 4 Front	Proverbs 3:5	Trust in the LORD with all thine heart; and lean not unto thine own understanding.
+Card 4 Back	Proverbs 3:6	In all thy ways acknowledge him, and he shall direct thy paths.
+Card 5 Front	1 Corinthians 13:4	Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
+Card 5 Back	1 Corinthians 13:5	Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+Card 6 Front	1 Corinthians 13:6	Rejoiceth not in iniquity, but rejoiceth in the truth;
+Card 6 Back	1 Corinthians 13:7-8	Beareth all things, believeth all things, hopeth all things, endureth all things. Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+Card 7 Front	John 1:1	In the beginning was the Word, and the Word was with God, and the Word was God.
+Card 7 Back	John 1:4	In him was life; and the life was the light of men.
+Card 8 Front	Romans 8:1	There is therefore now no condemnation to them which are in Christ Jesus, who walk not after the flesh, but after the Spirit.
+Card 8 Back	Romans 8:2	For the law of the Spirit of life in Christ Jesus hath made me free from the law of sin and death.
+Card 9 Front	Romans 8:28	And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+Card 9 Back	Romans 8:31	What shall we then say to these things? If God be for us, who can be against us?
+Card 10 Front	Romans 8:33	Who shall lay any thing to the charge of God’s elect? It is God that justifieth.
+Card 10 Back	Romans 8:34	Who is he that condemneth? It is Christ that died, yea rather, that is risen again, who is even at the right hand of God, who also maketh intercession for us.
+Card 11 Front	Romans 12:1	I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+Card 11 Back	Romans 12:2	And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+Card 12 Front	Ephesians 1:3	Blessed be the God and Father of our Lord Jesus Christ, who hath blessed us with all spiritual blessings in heavenly places in Christ:
+Card 12 Back	Ephesians 1:4	According as he hath chosen us in him before the foundation of the world, that we should be holy and without blame before him in love:
+Card 13 Front	Ephesians 2:8	For by grace are ye saved through faith; and that not of yourselves: it is the gift of God:
+Card 13 Back	Ephesians 2:9	Not of works, lest any man should boast.
+Card 14 Front	Ephesians 2:10	For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+Card 14 Back	Philippians 1:6	Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+Card 15 Front	Hebrews 11:1 & 2 Corinthians 5:7	Now faith is the substance of things hoped for, the evidence of things not seen. (Hebrews 11:1) / For we walk by faith, not by sight: (2 Corinthians 5:7)
+Card 15 Back	Hebrews 11:6	But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
+Card 16 Front	Galatians 5:22	But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
+Card 16 Back	Galatians 5:23	Meekness, temperance: against such there is no law.
+Card 17 Front	Psalm 23:1	The LORD is my shepherd; I shall not want.
+Card 17 Back	John 10:14	I am the good shepherd, and know my sheep, and am known of mine.
+Card 18 Front	Philippians 4:8	Finally, brethren, whatsoever things are true, whatsoever things are honest, whatsoever things are just, whatsoever things are pure, whatsoever things are lovely, whatsoever things are of good report; if there be any virtue, and if there be any praise, think on these things.
+Card 18 Back	2 Timothy 1:7	For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+Card 19 Front	2 Corinthians 5:17	Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+Card 19 Back	1 Corinthians 6:19	What? know ye not that your body is the temple of the Holy Ghost which is in you, which ye have of God, and ye are not your own?
+Card 20 Front	Romans 5:17	For if by one man’s offence death reigned by one; much more they which receive abundance of grace and of the gift of righteousness shall reign in life by one, Jesus Christ.
+Card 20 Back	Romans 10:17	So then faith cometh by hearing, and hearing by the word of God.
+Card 21 Front	Hebrews 11:3	Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
+Card 21 Back	2 Corinthians 4:18	While we look not at the things which are seen, but at the things which are not seen: for the things which are seen are temporal; but the things which are not seen are eternal.
+Card 22 Front	Mark 11:23	For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
+Card 22 Back	Mark 11:24	Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.
+Card 23 Front	Philippians 4:13	I can do all things through Christ which strengtheneth me.
+Card 23 Back	Philippians 4:19	But my God shall supply all your need according to his riches in glory by Christ Jesus.
+Card 24 Front	John 3:16	For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.
+Card 24 Back	Romans 10:10	For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+Card 25 Front	2 Corinthians 8:9	For ye know the grace of our Lord Jesus Christ, that, though he was rich, yet for your sakes he became poor, that ye through his poverty might be rich.
+Card 25 Back	Romans 10:17	So then faith cometh by hearing, and hearing by the word of God.
+Card 26 Front	John 14:12	Verily, verily, I say unto you, He that believeth on me, the works that I do shall he do also; and greater works than these shall he do; because I go unto my Father.
+Card 26 Back	John 14:13	And whatsoever ye shall ask in my name, that will I do, that the Father may be glorified in the Son.
+Card 27 Front	2 Corinthians 6:14	Be ye not unequally yoked together with unbelievers: for what fellowship hath righteousness with unrighteousness? and what communion hath light with darkness?
+Card 27 Back	2 Corinthians 6:16	And what agreement hath the temple of God with idols? for ye are the temple of the living God; as God hath said, I will dwell in them, and walk in them; and I will be their God, and they shall be my people.
+Card 28 Front	2 Corinthians 6:18	And will be a Father unto you, and ye shall be my sons and daughters, saith the Lord Almighty.
+Card 28 Back	2 Corinthians 6:17	Wherefore come out from among them, and be ye separate, saith the Lord, and touch not the unclean thing; and I will receive you,
+Card 29 Front	2 Timothy 1:7	For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+Card 29 Back	1 John 4:18	There is no fear in love; but perfect love casteth out fear: because fear hath torment. He that feareth is not made perfect in love.
+Card 30 Front	Psalm 127:1	Except the LORD build the house, they labour in vain that build it: except the LORD keep the city, the watchman waketh but in vain.
+Card 30 Back	Psalm 18:32	It is God that girdeth me with strength, and maketh my way perfect.
+Card 31 Front	Ephesians 4:23	And be renewed in the spirit of your mind;
+Card 31 Back	Ephesians 4:24	And that ye put on the new man, which after God is created in righteousness and true holiness.
+Card 32 Front	1 Peter 2:24	Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
+Card 32 Back	3 John 1:2	Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.
+Card 33 Front	John 15:7	If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+Card 33 Back	John 15:8	Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
+Card 34 Front	Psalm 91:9	Because thou hast made the LORD, which is my refuge, even the most High, thy habitation;
+Card 34 Back	Psalm 91:10	There shall no evil befall thee, neither shall any plague come nigh thy dwelling.
+Card 35 Front	Psalm 91:11	For he shall give his angels charge over thee, to keep thee in all thy ways.
+Card 35 Back	Psalm 91:12	They shall bear thee up in their hands, lest thou dash thy foot against a stone.
+Card 36 Front	Mark 9:23	Jesus said unto him, If thou canst believe, all things are possible to him that believeth.
+Card 36 Back	Mark 11:22	And Jesus answering saith unto them, Have faith in God.
+Card 37 Front	Luke 17:19	And he said unto him, Arise, go thy way: thy faith hath made thee whole.
+Card 37 Back	Matthew 9:22	But Jesus turned him about, and when he saw her, he said, Daughter, be of good comfort; thy faith hath made thee whole. And the woman was made whole from that hour.
+Card 38 Front	Psalm 107:20	He sent his word, and healed them, and delivered them from their destructions.
+Card 38 Back	Matthew 8:16	When the even was come, they brought unto him many that were possessed with devils: and he cast out the spirits with his word, and healed all that were sick:
+Card 39 Front	Proverbs 30:5	Every word of God is pure: he is a shield unto them that put their trust in him.
+Card 39 Back	Luke 4:4	And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
+Card 40 Front	John 6:63	It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+Card 40 Back	John 17:17	Sanctify them through thy truth: thy word is truth.
