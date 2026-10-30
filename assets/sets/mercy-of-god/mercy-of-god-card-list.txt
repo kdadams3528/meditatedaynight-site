@@ -1,0 +1,40 @@
+Card 1 Front	Exodus 34:6	And the LORD passed by before him, and proclaimed, The LORD, The LORD God, merciful and gracious, longsuffering, and abundant in goodness and truth,
+Card 1 Back	Psalm 86:15	But thou, O Lord, art a God full of compassion, and gracious, longsuffering, and plenteous in mercy and truth.
+Card 2 Front	Psalm 103:8	The LORD is merciful and gracious, slow to anger, and plenteous in mercy.
+Card 2 Back	Psalm 145:8	The LORD is gracious, and full of compassion; slow to anger, and of great mercy.
+Card 3 Front	Psalm 116:5	Gracious is the LORD, and righteous; yea, our God is merciful.
+Card 3 Back	Psalm 86:5	For thou, Lord, art good, and ready to forgive; and plenteous in mercy unto all them that call upon thee.
+Card 4 Front	Deuteronomy 7:9	Know therefore that the LORD thy God, he is God, the faithful God, which keepeth covenant and mercy with them that love him and keep his commandments to a thousand generations;
+Card 4 Back	1 Kings 8:23	And he said, LORD God of Israel, there is no God like thee, in heaven above, or on earth beneath, who keepest covenant and mercy with thy servants that walk before thee with all their heart:
+Card 5 Front	Psalm 36:5	Thy mercy, O LORD, is in the heavens; and thy faithfulness reacheth unto the clouds.
+Card 5 Back	Psalm 57:10	For thy mercy is great unto the heavens, and thy truth unto the clouds.
+Card 6 Front	Psalm 103:11	For as the heaven is high above the earth, so great is his mercy toward them that fear him.
+Card 6 Back	Psalm 103:17	But the mercy of the LORD is from everlasting to everlasting upon them that fear him, and his righteousness unto children’s children;
+Card 7 Front	Psalm 100:5	For the LORD is good; his mercy is everlasting; and his truth endureth to all generations.
+Card 7 Back	Luke 1:50	And his mercy is on them that fear him from generation to generation.
+Card 8 Front	Psalm 25:10	All the paths of the LORD are mercy and truth unto such as keep his covenant and his testimonies.
+Card 8 Back	Psalm 85:10	Mercy and truth are met together; righteousness and peace have kissed each other.
+Card 9 Front	Ephesians 2:4	But God, who is rich in mercy, for his great love wherewith he loved us,
+Card 9 Back	1 Peter 1:3	Blessed be the God and Father of our Lord Jesus Christ, which according to his abundant mercy hath begotten us again unto a lively hope by the resurrection of Jesus Christ from the dead,
+Card 10 Front	Romans 9:16	So then it is not of him that willeth, nor of him that runneth, but of God that sheweth mercy.
+Card 10 Back	Joel 2:13	And rend your heart, and not your garments, and turn unto the LORD your God: for he is gracious and merciful, slow to anger, and of great kindness, and repenteth him of the evil.
+Card 11 Front	Psalm 103:4	Who redeemeth thy life from destruction; who crowneth thee with lovingkindness and tender mercies;
+Card 11 Back	Isaiah 54:10	For the mountains shall depart, and the hills be removed; but my kindness shall not depart from thee, neither shall the covenant of my peace be removed, saith the LORD that hath mercy on thee.
+Card 12 Front	2 Corinthians 1:3	Blessed be God, even the Father of our Lord Jesus Christ, the Father of mercies, and the God of all comfort;
+Card 12 Back	Isaiah 49:13	Sing, O heavens; and be joyful, O earth; and break forth into singing, O mountains: for the LORD hath comforted his people, and will have mercy upon his afflicted.
+Card 13 Front	Lamentations 3:22	It is of the LORD’s mercies that we are not consumed, because his compassions fail not.
+Card 13 Back	Psalm 90:14	O satisfy us early with thy mercy; that we may rejoice and be glad all our days.
+Card 14 Front	Psalm 59:16	But I will sing of thy power; yea, I will sing aloud of thy mercy in the morning: for thou hast been my defence and refuge in the day of my trouble.
+Card 14 Back	Psalm 119:64	The earth, O LORD, is full of thy mercy: teach me thy statutes.
+Card 15 Front	Psalm 33:18	Behold, the eye of the LORD is upon them that fear him, upon them that hope in his mercy;
+Card 15 Back	Psalm 147:11	The LORD taketh pleasure in them that fear him, in those that hope in his mercy.
+Card 16 Front	Psalm 32:10	Many sorrows shall be to the wicked: but he that trusteth in the LORD, mercy shall compass him about.
+Card 16 Back	Psalm 52:8	But I am like a green olive tree in the house of God: I trust in the mercy of God for ever and ever.
+Card 17 Front	2 Samuel 22:26	With the merciful thou wilt shew thyself merciful, and with the upright man thou wilt shew thyself upright.
+Card 17 Back	Matthew 14:14	And Jesus went forth, and saw a great multitude, and was moved with compassion toward them, and he healed their sick.
+Card 18 Front	Psalm 89:1	I will sing of the mercies of the LORD for ever: with my mouth will I make known thy faithfulness to all generations.
+Card 18 Back	Psalm 101:1	I will sing of mercy and judgment: unto thee, O LORD, will I sing.
+Card 19 Front	Psalm 108:4	For thy mercy is great above the heavens: and thy truth reacheth unto the clouds.
+Card 19 Back	Psalm 117:2	For his merciful kindness is great toward us: and the truth of the LORD endureth for ever. Praise ye the LORD.
+Card 20 Front	1 Chronicles 16:34	O give thanks unto the LORD; for he is good; for his mercy endureth for ever.
+Card 20 Back	Psalm 23:6	Surely goodness and mercy shall follow me all the days of my life: and I will dwell in the house of the LORD for ever.

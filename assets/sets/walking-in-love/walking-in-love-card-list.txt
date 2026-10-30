@@ -1,0 +1,40 @@
+Card 1 Front	Deuteronomy 6:5	And thou shalt love the LORD thy God with all thine heart, and with all thy soul, and with all thy might.
+Card 1 Back	Deuteronomy 30:6	And the LORD thy God will circumcise thine heart, and the heart of thy seed, to love the LORD thy God with all thine heart, and with all thy soul, that thou mayest live.
+Card 2 Front	Luke 10:27	And he answering said, Thou shalt love the Lord thy God with all thy heart, and with all thy soul, and with all thy strength, and with all thy mind; and thy neighbour as thyself.
+Card 2 Back	John 14:15	If ye love me, keep my commandments.
+Card 3 Front	1 John 2:5	But whoso keepeth his word, in him verily is the love of God perfected: hereby know we that we are in him.
+Card 3 Back	1 John 2:15	Love not the world, neither the things that are in the world. If any man love the world, the love of the Father is not in him.
+Card 4 Front	John 13:35	By this shall all men know that ye are my disciples, if ye have love one to another.
+Card 4 Back	John 15:12	This is my commandment, That ye love one another, as I have loved you.
+Card 5 Front	John 15:17	These things I command you, that ye love one another.
+Card 5 Back	1 Peter 1:22	Seeing ye have purified your souls in obeying the truth through the Spirit unto unfeigned love of the brethren, see that ye love one another with a pure heart fervently:
+Card 6 Front	1 John 4:7	Beloved, let us love one another: for love is of God; and every one that loveth is born of God, and knoweth God.
+Card 6 Back	1 John 4:11	Beloved, if God so loved us, we ought also to love one another.
+Card 7 Front	1 John 3:11	For this is the message that ye heard from the beginning, that we should love one another.
+Card 7 Back	1 John 4:21	And this commandment have we from him, That he who loveth God love his brother also.
+Card 8 Front	1 John 4:20	If a man say, I love God, and hateth his brother, he is a liar: for he that loveth not his brother whom he hath seen, how can he love God whom he hath not seen?
+Card 8 Back	1 John 3:18	My little children, let us not love in word, neither in tongue; but in deed and in truth.
+Card 9 Front	Romans 12:9	Let love be without dissimulation. Abhor that which is evil; cleave to that which is good.
+Card 9 Back	Romans 12:10	Be kindly affectioned one to another with brotherly love; in honour preferring one another;
+Card 10 Front	Romans 13:8	Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
+Card 10 Back	Galatians 5:13	For, brethren, ye have been called unto liberty; only use not liberty for an occasion to the flesh, but by love serve one another.
+Card 11 Front	Romans 13:10	Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.
+Card 11 Back	Galatians 5:6	For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+Card 12 Front	Galatians 5:14	For all the law is fulfilled in one word, even in this; Thou shalt love thy neighbour as thyself.
+Card 12 Back	Ephesians 4:2	With all lowliness and meekness, with longsuffering, forbearing one another in love;
+Card 13 Front	James 2:8	If ye fulfil the royal law according to the scripture, Thou shalt love thy neighbour as thyself, ye do well:
+Card 13 Back	Leviticus 19:34	But the stranger that dwelleth with you shall be unto you as one born among you, and thou shalt love him as thyself; for ye were strangers in the land of Egypt: I am the LORD your God.
+Card 14 Front	Luke 6:27	But I say unto you which hear, Love your enemies, do good to them which hate you,
+Card 14 Back	Luke 6:32	For if ye love them which love you, what thank have ye? for sinners also love those that love them.
+Card 15 Front	Proverbs 10:12	Hatred stirreth up strifes: but love covereth all sins.
+Card 15 Back	Proverbs 17:9	He that covereth a transgression seeketh love; but he that repeateth a matter separateth very friends.
+Card 16 Front	1 Peter 4:8	And above all things have fervent charity among yourselves: for charity shall cover the multitude of sins.
+Card 16 Back	Ephesians 5:25	Husbands, love your wives, even as Christ also loved the church, and gave himself for it;
+Card 17 Front	1 Corinthians 13:4	Charity suffereth long, and is kind; charity envieth not; charity vaunteth not itself, is not puffed up,
+Card 17 Back	1 Corinthians 13:5	Doth not behave itself unseemly, seeketh not her own, is not easily provoked, thinketh no evil;
+Card 18 Front	1 Corinthians 13:6	Rejoiceth not in iniquity, but rejoiceth in the truth;
+Card 18 Back	1 Corinthians 13:7	Beareth all things, believeth all things, hopeth all things, endureth all things.
+Card 19 Front	1 Corinthians 16:14	Let all your things be done with charity.
+Card 19 Back	Colossians 3:14	And above all these things put on charity, which is the bond of perfectness.
+Card 20 Front	1 Corinthians 13:8	Charity never faileth: but whether there be prophecies, they shall fail; whether there be tongues, they shall cease; whether there be knowledge, it shall vanish away.
+Card 20 Back	1 Corinthians 13:13	And now abideth faith, hope, charity, these three; but the greatest of these is charity.
