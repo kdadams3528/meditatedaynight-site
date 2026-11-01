@@ -225,17 +225,3 @@ The set pages and the home hero come from this script. If it is run again, it wi
 2. **Back plate artwork / engraving** shows a free-gift message (gallery `back-cover.jpg`, `assets/images/wallet-back-plate.png`). Only the alt text was changed. The image itself and future engravings need new wording.
 3. **Free downloads**: Make Your Own page, set-page "Download the PDF", and the card ZIP still let people print the wallets for free. Keep these as a sampler or remove them?
 4. The form's "How many" limit (max 100) and the "church or group order" placeholder: confirm that bulk orders are wanted.
-
----
-# Round 2 (2026-10-31): Ordering coming soon (no Shopify; Etsy/eBay later)
-This round supersedes the Shop/Buy/order-form wording above.
-- All Shop/Buy buttons ("Shop the Scripture Wallet", "Shop the KJV Scripture Wallet", "Buy now", "Buy this wallet") → **"Ordering coming soon"**. They link to `request.html`. Nav "Shop" → "Coming soon".
-- `request.html` → "Ordering coming soon" page. The order form, FormSubmit email action, "Place order", and payment/confirmation wording are removed. It now has buttons to the wallet sets and gallery, plus Psalm 1:2 (KJV).
-- index.html: "Each Scripture Wallet is made to order… Order one…" → "Scripture Wallets from Meditate Day & Night will be available to order soon. Until then, browse the sets and read every verse."
-- contact.html: "Ready to order? Shop…" → "Ordering is coming soon. Questions are welcome any time."
-- thanks.html: the order/payment text is replaced with a neutral thank-you. The page is now unused.
-- make-your-own.html: "Or buy a finished engraved wallet" → "Finished engraved wallets: ordering coming soon". Back-plate alt text was updated.
-- Back plate: `assets/images/wallet-back-plate.png`, `assets/gallery/back-cover.jpg` and `back-cover-thumb.jpg` are replaced with **2026-10-31 Wallet Back Plate v3** (Psalm 1:2 + MeditateDayNight.com, no gift message). Captions and alt text now read "Back plate: Psalm 1:2 and MeditateDayNight.com" / "Scripture Wallet back plate engraved with Psalm 1:2 and MeditateDayNight.com".
-- index.html: the duplicated "Scripture Wallet Sets" section was cut from 6 copies to 1.
-- `/workspace/meditatedaynight/preview/build.py` (outside the repo; backup saved as `build.py.bak-2026-10-31`): the nav, set CTA and hero CTA wording were updated. The hero regex now also consumes any existing sets sections, so a rebuild leaves exactly one section (tested against the 6x copy, which came out with 1).
-- Shopify recommendations above no longer apply.
