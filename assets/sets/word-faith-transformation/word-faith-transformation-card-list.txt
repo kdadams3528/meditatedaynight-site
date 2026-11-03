@@ -1,0 +1,84 @@
+Card 1 Front	John 1:1	In the beginning was the Word, and the Word was with God, and the Word was God.
+Card 1 Front	John 1:4	In him was life; and the life was the light of men.
+Card 1 Back	John 14:6	Jesus saith unto him, I am the way, the truth, and the life: no man cometh unto the Father, but by me.
+Card 1 Back	1 John 1:5	This then is the message which we have heard of him, and declare unto you, that God is light, and in him is no darkness at all.
+Card 2 Front	Psalm 107:20	He sent his word, and healed them, and delivered them from their destructions.
+Card 2 Front	Proverbs 30:5	Every word of God is pure: he is a shield unto them that put their trust in him.
+Card 2 Back	John 6:63	It is the spirit that quickeneth; the flesh profiteth nothing: the words that I speak unto you, they are spirit, and they are life.
+Card 2 Back	John 11:25	Jesus said unto her, I am the resurrection, and the life: he that believeth in me, though he were dead, yet shall he live:
+Card 3 Front	Psalm 1:2	But his delight is in the law of the LORD; and in his law doth he meditate day and night.
+Card 3 Front	Matthew 7:24	Therefore whosoever heareth these sayings of mine, and doeth them, I will liken him unto a wise man, which built his house upon a rock:
+Card 3 Back	Luke 4:4	And Jesus answered him, saying, It is written, That man shall not live by bread alone, but by every word of God.
+Card 3 Back	John 17:17	Sanctify them through thy truth: thy word is truth.
+Card 4 Front	Matthew 24:35	Heaven and earth shall pass away, but my words shall not pass away.
+Card 4 Front	Isaiah 40:8	The grass withereth, the flower fadeth: but the word of our God shall stand for ever.
+Card 4 Back	Isaiah 55:11	So shall my word be that goeth forth out of my mouth: it shall not return unto me void, but it shall accomplish that which I please, and it shall prosper in the thing whereto I sent it.
+Card 5 Front	Romans 1:16	For I am not ashamed of the gospel of Christ: for it is the power of God unto salvation to every one that believeth; to the Jew first, and also to the Greek.
+Card 5 Back	James 1:17	Every good gift and every perfect gift is from above, and cometh down from the Father of lights, with whom is no variableness, neither shadow of turning.
+Card 6 Front	Hebrews 11:1	Now faith is the substance of things hoped for, the evidence of things not seen.
+Card 6 Front	Romans 10:17	So then faith cometh by hearing, and hearing by the word of God.
+Card 6 Back	Hebrews 11:3	Through faith we understand that the worlds were framed by the word of God, so that things which are seen were not made of things which do appear.
+Card 6 Back	2 Corinthians 5:7	For we walk by faith, not by sight:
+Card 7 Front	Hebrews 11:6	But without faith it is impossible to please him: for he that cometh to God must believe that he is, and that he is a rewarder of them that diligently seek him.
+Card 7 Back	Romans 1:17	For therein is the righteousness of God revealed from faith to faith: as it is written, The just shall live by faith.
+Card 7 Back	Romans 5:1	Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:
+Card 8 Front	Romans 10:10	For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.
+Card 8 Front	1 Corinthians 2:5	That your faith should not stand in the wisdom of men, but in the power of God.
+Card 8 Back	John 6:29	Jesus answered and said unto them, This is the work of God, that ye believe on him whom he hath sent.
+Card 8 Back	Mark 9:23	Jesus said unto him, If thou canst believe, all things are possible to him that believeth.
+Card 9 Front	Mark 11:23	For verily I say unto you, That whosoever shall say unto this mountain, Be thou removed, and be thou cast into the sea; and shall not doubt in his heart, but shall believe that those things which he saith shall come to pass; he shall have whatsoever he saith.
+Card 9 Back	Mark 11:24	Therefore I say unto you, What things soever ye desire, when ye pray, believe that ye receive them, and ye shall have them.
+Card 9 Back	Matthew 21:22	And all things, whatsoever ye shall ask in prayer, believing, ye shall receive.
+Card 10 Front	Mark 11:25	And when ye stand praying, forgive, if ye have ought against any: that your Father also which is in heaven may forgive you your trespasses.
+Card 10 Back	Matthew 18:19	Again I say unto you, That if two of you shall agree on earth as touching any thing that they shall ask, it shall be done for them of my Father which is in heaven.
+Card 11 Front	Matthew 8:17	That it might be fulfilled which was spoken by Esaias the prophet, saying, Himself took our infirmities, and bare our sicknesses.
+Card 11 Front	Matthew 9:29	Then touched he their eyes, saying, According to your faith be it unto you.
+Card 11 Back	1 Peter 2:24	Who his own self bare our sins in his own body on the tree, that we, being dead to sins, should live unto righteousness: by whose stripes ye were healed.
+Card 12 Front	3 John 1:2	Beloved, I wish above all things that thou mayest prosper and be in health, even as thy soul prospereth.
+Card 12 Front	Luke 17:19	And he said unto him, Arise, go thy way: thy faith hath made thee whole.
+Card 12 Back	Isaiah 1:19	If ye be willing and obedient, ye shall eat the good of the land:
+Card 12 Back	Luke 1:37	For with God nothing shall be impossible.
+Card 13 Front	Romans 12:1	I beseech you therefore, brethren, by the mercies of God, that ye present your bodies a living sacrifice, holy, acceptable unto God, which is your reasonable service.
+Card 13 Back	Romans 12:2	And be not conformed to this world: but be ye transformed by the renewing of your mind, that ye may prove what is that good, and acceptable, and perfect, will of God.
+Card 14 Front	2 Corinthians 5:17	Therefore if any man be in Christ, he is a new creature: old things are passed away; behold, all things are become new.
+Card 14 Front	Galatians 3:26	For ye are all the children of God by faith in Christ Jesus.
+Card 14 Back	Ephesians 2:10	For we are his workmanship, created in Christ Jesus unto good works, which God hath before ordained that we should walk in them.
+Card 14 Back	Ephesians 2:6	And hath raised us up together, and made us sit together in heavenly places in Christ Jesus:
+Card 15 Front	Romans 8:28	And we know that all things work together for good to them that love God, to them who are the called according to his purpose.
+Card 15 Front	Romans 8:31	What shall we then say to these things? If God be for us, who can be against us?
+Card 15 Back	Romans 8:33	Who shall lay any thing to the charge of God’s elect? It is God that justifieth.
+Card 15 Back	Romans 8:37	Nay, in all these things we are more than conquerors through him that loved us.
+Card 16 Front	Philippians 4:13	I can do all things through Christ which strengtheneth me.
+Card 16 Front	Philippians 4:19	But my God shall supply all your need according to his riches in glory by Christ Jesus.
+Card 16 Back	Philippians 1:6	Being confident of this very thing, that he which hath begun a good work in you will perform it until the day of Jesus Christ:
+Card 16 Back	Philippians 3:14	I press toward the mark for the prize of the high calling of God in Christ Jesus.
+Card 17 Front	1 John 4:4	Ye are of God, little children, and have overcome them: because greater is he that is in you, than he that is in the world.
+Card 17 Front	2 Timothy 1:7	For God hath not given us the spirit of fear; but of power, and of love, and of a sound mind.
+Card 17 Back	John 15:7	If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+Card 17 Back	Acts 5:32	And we are his witnesses of these things; and so is also the Holy Ghost, whom God hath given to them that obey him.
+Card 18 Front	John 4:24	God is a Spirit: and they that worship him must worship him in spirit and in truth.
+Card 18 Front	1 Corinthians 15:45	And so it is written, The first man Adam was made a living soul; the last Adam was made a quickening spirit.
+Card 18 Back	1 Corinthians 3:16	Know ye not that ye are the temple of God, and that the Spirit of God dwelleth in you?
+Card 18 Back	Ephesians 4:30	And grieve not the holy Spirit of God, whereby ye are sealed unto the day of redemption.
+Card 19 Front	Acts 2:4	And they were all filled with the Holy Ghost, and began to speak with other tongues, as the Spirit gave them utterance.
+Card 19 Front	Acts 8:17	Then laid they their hands on them, and they received the Holy Ghost.
+Card 19 Back	Acts 11:15	And as I began to speak, the Holy Ghost fell on them, as on us at the beginning.
+Card 19 Back	Acts 15:8	And God, which knoweth the hearts, bare them witness, giving them the Holy Ghost, even as he did unto us;
+Card 20 Front	Mark 16:17	And these signs shall follow them that believe; In my name shall they cast out devils; they shall speak with new tongues;
+Card 20 Back	Mark 16:18	They shall take up serpents; and if they drink any deadly thing, it shall not hurt them; they shall lay hands on the sick, and they shall recover.
+Card 21 Front	Romans 13:8	Owe no man any thing, but to love one another: for he that loveth another hath fulfilled the law.
+Card 21 Front	Romans 13:10	Love worketh no ill to his neighbour: therefore love is the fulfilling of the law.
+Card 21 Back	Galatians 5:6	For in Jesus Christ neither circumcision availeth any thing, nor uncircumcision; but faith which worketh by love.
+Card 21 Back	John 15:17	These things I command you, that ye love one another.
+Card 22 Front	Luke 6:36	Be ye therefore merciful, as your Father also is merciful.
+Card 22 Front	Luke 6:37	Judge not, and ye shall not be judged: condemn not, and ye shall not be condemned: forgive, and ye shall be forgiven:
+Card 22 Back	1 Peter 2:17	Honour all men. Love the brotherhood. Fear God. Honour the king.
+Card 22 Back	Philippians 2:14	Do all things without murmurings and disputings:
+Card 23 Front	Galatians 5:22	But the fruit of the Spirit is love, joy, peace, longsuffering, gentleness, goodness, faith,
+Card 23 Front	Galatians 5:23	Meekness, temperance: against such there is no law.
+Card 23 Back	James 3:18	And the fruit of righteousness is sown in peace of them that make peace.
+Card 23 Back	1 Peter 2:11	Dearly beloved, I beseech you as strangers and pilgrims, abstain from fleshly lusts, which war against the soul;
+Card 24 Front	Proverbs 13:3	He that keepeth his mouth keepeth his life: but he that openeth wide his lips shall have destruction.
+Card 24 Front	Proverbs 15:1	A soft answer turneth away wrath: but grievous words stir up anger.
+Card 24 Back	Proverbs 16:24	Pleasant words are as an honeycomb, sweet to the soul, and health to the bones.
+Card 24 Back	Proverbs 18:21	Death and life are in the power of the tongue: and they that love it shall eat the fruit thereof.
