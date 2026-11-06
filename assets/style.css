@@ -271,36 +271,6 @@ li { margin-bottom: 6px; }
   .two-col { grid-template-columns: 1fr; }
 }
 
-/* Forms */
-form.wallet-form {
-  background: var(--white);
-  border: 1px solid var(--line);
-  padding: 24px;
-  max-width: 640px;
-}
-.field { margin-bottom: 16px; }
-.field label {
-  display: block;
-  font-weight: 600;
-  margin-bottom: 6px;
-  color: var(--navy);
-  font-size: 0.95rem;
-}
-.field .hint { display: block; font-weight: 400; color: var(--muted); font-size: 0.85rem; }
-.field input, .field textarea, .field select {
-  width: 100%;
-  padding: 10px 12px;
-  border: 1px solid var(--line);
-  background: #fff;
-  font: inherit;
-  color: var(--ink);
-}
-.field input:focus, .field textarea:focus, .field select:focus {
-  outline: 2px solid var(--gold);
-  border-color: var(--gold);
-}
-.field textarea { min-height: 110px; resize: vertical; }
-.required { color: #a33; }
 
 /* Scripture list / downloads */
 .scripture-table {
