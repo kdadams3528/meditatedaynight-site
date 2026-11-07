@@ -1,0 +1,236 @@
+[
+  {
+    "kind": "Scripture",
+    "step": 1,
+    "theme": "Step 1",
+    "passages": [
+      {
+        "reference": "Romans 5:1",
+        "text": "Therefore being justified by faith, we have peace with God through our Lord Jesus Christ:",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 1,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 1,
+    "theme": "Step 1",
+    "passages": [
+      {
+        "reference": "John 3:16",
+        "text": "For God so loved the world, that he gave his only begotten Son, that whosoever believeth in him should not perish, but have everlasting life.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 1,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 1,
+    "theme": "Step 1",
+    "passages": [
+      {
+        "reference": "John 10:10",
+        "text": "The thief cometh not, but for to steal, and to kill, and to destroy: I am come that they might have life, and that they might have it more abundantly.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 2,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 2,
+    "theme": "Step 2",
+    "passages": [
+      {
+        "reference": "Romans 3:23",
+        "text": "For all have sinned, and come short of the glory of God;",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 2,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 2,
+    "theme": "Step 2",
+    "passages": [
+      {
+        "reference": "Romans 6:23",
+        "text": "For the wages of sin is death; but the gift of God is eternal life through Jesus Christ our Lord.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 3,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 2,
+    "theme": "Step 2",
+    "passages": [
+      {
+        "reference": "Proverbs 14:12",
+        "text": "There is a way which seemeth right unto a man, but the end thereof are the ways of death.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 3,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 2,
+    "theme": "Step 2",
+    "passages": [
+      {
+        "reference": "Isaiah 59:2",
+        "text": "But your iniquities have separated between you and your God, and your sins have hid his face from you, that he will not hear.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 4,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 3,
+    "theme": "Step 3",
+    "passages": [
+      {
+        "reference": "1 Timothy 2:5",
+        "text": "For there is one God, and one mediator between God and men, the man Christ Jesus;",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 4,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 3,
+    "theme": "Step 3",
+    "passages": [
+      {
+        "reference": "1 Peter 3:18",
+        "text": "For Christ also hath once suffered for sins, the just for the unjust, that he might bring us to God, being put to death in the flesh, but quickened by the Spirit:",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 5,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 3,
+    "theme": "Step 3",
+    "passages": [
+      {
+        "reference": "Romans 5:8",
+        "text": "But God commendeth his love toward us, in that, while we were yet sinners, Christ died for us.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 5,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 4,
+    "theme": "Step 4",
+    "passages": [
+      {
+        "reference": "Revelation 3:20",
+        "text": "Behold, I stand at the door, and knock: if any man hear my voice, and open the door, I will come in to him, and will sup with him, and he with me.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 6,
+    "side": "Front"
+  },
+  {
+    "kind": "Scripture",
+    "step": 4,
+    "theme": "Step 4",
+    "passages": [
+      {
+        "reference": "John 1:12",
+        "text": "But as many as received him, to them gave he power to become the sons of God, even to them that believe on his name:",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 6,
+    "side": "Back"
+  },
+  {
+    "kind": "Scripture",
+    "step": 4,
+    "theme": "Step 4",
+    "passages": [
+      {
+        "reference": "Romans 10:9",
+        "text": "That if thou shalt confess with thy mouth the Lord Jesus, and shalt believe in thine heart that God hath raised him from the dead, thou shalt be saved.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 136,
+    "card": 7,
+    "side": "Front"
+  },
+  {
+    "kind": "Blank",
+    "step": null,
+    "theme": "",
+    "passages": [],
+    "body_px": null,
+    "card": 7,
+    "side": "Back"
+  },
+  {
+    "kind": "Prayer (not Scripture)",
+    "step": 4,
+    "theme": "Prayer • 1/2",
+    "passages": [
+      {
+        "reference": "Prayer • 1/2",
+        "text": "Dear God, I know I am a sinner. I want to turn from my sins, and I ask for Your forgiveness. I believe that Jesus Christ is Your Son. I believe He died for my sins and that You raised Him to life.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 126,
+    "card": 8,
+    "side": "Front"
+  },
+  {
+    "kind": "Prayer (not Scripture)",
+    "step": 4,
+    "theme": "Prayer • 2/2",
+    "passages": [
+      {
+        "reference": "Prayer • 2/2",
+        "text": "I want Him to come into my heart and to take control of my life. I want to trust Jesus as my Savior and follow Him as my Lord from this day forward. In Jesus' Name, amen.",
+        "source": "https://peacewithgod.net/steps/"
+      }
+    ],
+    "body_px": 126,
+    "card": 8,
+    "side": "Back"
+  }
+]
