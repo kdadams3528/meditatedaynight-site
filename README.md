@@ -8,7 +8,7 @@ Do **not** merge to `main` (live GitHub Pages) until Kevin approves.
 ## Pages
 - `index.html` — Home / meditate on the Word (KJV quotes)
 - `why-kjv.html` — Why KJV only
-- `make-your-own.html` — System, scripture list, PNG downloads, AI prompt tip
+
 - `contact.html` — Phone and email
 - `404.html` — Not found
 - `CNAME` — meditatedaynight.com
