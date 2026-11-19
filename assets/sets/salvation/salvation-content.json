@@ -195,11 +195,17 @@
     "side": "Front"
   },
   {
-    "kind": "Blank",
-    "step": null,
-    "theme": "",
-    "passages": [],
-    "body_px": null,
+    "kind": "Scripture",
+    "step": 4,
+    "theme": "Step 4",
+    "passages": [
+      {
+        "reference": "Romans 10:10",
+        "text": "For with the heart man believeth unto righteousness; and with the mouth confession is made unto salvation.",
+        "source": "added by Meditate Day & Night (not on the source page)"
+      }
+    ],
+    "body_px": 136,
     "card": 7,
     "side": "Back"
   },
