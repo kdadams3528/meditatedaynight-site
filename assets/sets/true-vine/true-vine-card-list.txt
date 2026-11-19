@@ -1,0 +1,16 @@
+Card 1 Front	John 15:1	I am the true vine, and my Father is the husbandman.
+Card 1 Back	John 15:2	Every branch in me that beareth not fruit he taketh away: and every branch that beareth fruit, he purgeth it, that it may bring forth more fruit.
+Card 2 Front	John 15:3	Now ye are clean through the word which I have spoken unto you.
+Card 2 Back	John 15:4	Abide in me, and I in you. As the branch cannot bear fruit of itself, except it abide in the vine; no more can ye, except ye abide in me.
+Card 3 Front	John 15:5	I am the vine, ye are the branches: He that abideth in me, and I in him, the same bringeth forth much fruit: for without me ye can do nothing.
+Card 3 Back	John 15:6	If a man abide not in me, he is cast forth as a branch, and is withered; and men gather them, and cast them into the fire, and they are burned.
+Card 4 Front	John 15:7	If ye abide in me, and my words abide in you, ye shall ask what ye will, and it shall be done unto you.
+Card 4 Back	John 15:8	Herein is my Father glorified, that ye bear much fruit; so shall ye be my disciples.
+Card 5 Front	John 15:9	As the Father hath loved me, so have I loved you: continue ye in my love.
+Card 5 Back	John 15:10	If ye keep my commandments, ye shall abide in my love; even as I have kept my Father’s commandments, and abide in his love.
+Card 6 Front	John 15:11	These things have I spoken unto you, that my joy might remain in you, and that your joy might be full.
+Card 6 Back	John 15:12	This is my commandment, That ye love one another, as I have loved you.
+Card 7 Front	John 15:13	Greater love hath no man than this, that a man lay down his life for his friends.
+Card 7 Back	John 15:14	Ye are my friends, if ye do whatsoever I command you.
+Card 8 Front	John 15:15	Henceforth I call you not servants; for the servant knoweth not what his lord doeth: but I have called you friends; for all things that I have heard of my Father I have made known unto you.
+Card 8 Back	John 15:16	Ye have not chosen me, but I have chosen you, and ordained you, that ye should go and bring forth fruit, and that your fruit should remain: that whatsoever ye shall ask of the Father in my name, he may give it you.
