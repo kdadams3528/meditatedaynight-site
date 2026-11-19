@@ -15,7 +15,7 @@ Do **not** merge to `main` (live GitHub Pages) until Kevin approves.
 
 ## Assets
 - Approved wider-gap logos / header under `assets/logo/`
-- Wallet covers under `assets/images/`
+- Scripture Cards covers under `assets/images/`
 - All 40 KJV card front/back PNGs under `assets/cards/`
 - ZIP: `assets/standard-kjv-scripture-cards.zip`
 - Screenshots: `screens/` and `_review/screens/`
