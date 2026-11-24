@@ -359,3 +359,89 @@ footer strong { color: var(--navy); }
   .site-banner--compact { background: #0b1a37; }
   .site-banner--compact img { height: 110px; object-fit: contain; }
 }
+
+/* Scripture Wallet plates */
+.wallet-intro { max-width: 700px; }
+.wallet-plates {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin: 8px 0 10px;
+}
+.wallet-plates figure {
+  margin: 0;
+  background: var(--white);
+  border: 1px solid var(--line);
+  padding: 14px;
+}
+.wallet-plates img {
+  width: 100%;
+  border-radius: 12px;
+  background: #111;
+}
+.wallet-plates figcaption {
+  margin-top: 12px;
+  font-size: 0.95rem;
+}
+.wallet-plates figcaption strong {
+  display: block;
+  color: var(--navy);
+  font-family: "Cormorant Garamond", Georgia, serif;
+  font-size: 1.15rem;
+  font-weight: 600;
+  margin-bottom: 2px;
+}
+.wallet-plates figcaption cite {
+  display: block;
+  font-style: normal;
+  color: var(--muted);
+  font-size: 0.9rem;
+  margin-top: 4px;
+}
+@media (max-width: 700px) {
+  .wallet-plates { grid-template-columns: 1fr; }
+}
+
+/* Also available in — language versions */
+.also-langs { margin: 36px 0 12px; padding-top: 8px; }
+.also-langs > p { max-width: 760px; }
+.lang-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 20px;
+  margin-top: 16px;
+}
+.lang-block {
+  background: var(--white);
+  border: 1px solid var(--line);
+  border-radius: 6px;
+  padding: 16px 16px 8px;
+}
+.lang-block h3 { margin-top: 0; }
+.lang-block .meta { color: var(--muted); font-size: 0.92rem; margin-bottom: 10px; }
+.lang-block img {
+  width: 100%;
+  border: 1px solid var(--line);
+  border-radius: 4px;
+  background: #fff;
+  margin: 0 0 12px;
+}
+.lang-verses { font-size: 0.95rem; }
+.lang-verses .verse { margin-bottom: 12px; }
+.lang-verses[lang="my"], .my-text {
+  font-family: "Padauk", "Noto Sans Myanmar", "Myanmar Text", sans-serif;
+  line-height: 1.95;
+  font-size: 1.05rem;
+}
+@media (max-width: 700px) {
+  .lang-grid { grid-template-columns: 1fr; }
+}
+
+.lang-details { margin: 4px 0 12px; }
+.lang-details summary {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--navy);
+  margin-bottom: 10px;
+}
+.lang-details summary:hover { color: var(--gold); }
