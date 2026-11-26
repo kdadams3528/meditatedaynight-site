@@ -100,6 +100,18 @@ nav a:focus-visible {
 }
 
 
+/* Shop on Etsy — stand out in the navy header */
+nav a.nav-etsy {
+  background: var(--gold);
+  color: var(--navy) !important;
+  box-shadow: none;
+}
+nav a.nav-etsy:hover {
+  background: #b08d3c;
+  color: var(--navy) !important;
+}
+
+
 /* Mobile: large wrap-friendly tap targets */
 @media (max-width: 720px) {
   header .bar { padding: 10px 0 12px; }
