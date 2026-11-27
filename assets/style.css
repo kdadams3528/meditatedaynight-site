@@ -486,3 +486,18 @@ footer strong { color: var(--navy); }
   margin-bottom: 10px;
 }
 .lang-details summary:hover { color: var(--gold); }
+
+/* Custom Orders and real photos (2026-11-26) */
+.custom-options{display:grid;grid-template-columns:repeat(auto-fit,minmax(240px,1fr));gap:18px;margin:18px 0 8px}
+.custom-option{background:#fff;border:1px solid #e3ddd0;border-radius:6px;padding:16px 18px}
+.custom-option h2{margin:0 0 6px;font-size:1.5rem}
+.custom-option p{margin:0}
+.translations-note{background:#fbf8f1;border-left:4px solid var(--gold);padding:12px 18px;border-radius:4px;margin:24px 0}
+.translations-note h2{margin-top:.2em}
+.custom-grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:18px;margin:14px 0}
+.custom-grid figure,.photo-row figure{margin:0}
+.custom-grid img{width:100%;height:auto;border-radius:6px;display:block}
+.custom-grid figcaption,.photo-row figcaption{font-size:.92rem;color:var(--muted);margin-top:6px;text-align:center}
+.photo-row{display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:16px;margin:14px 0 28px}
+.photo-row img{width:100%;height:auto;aspect-ratio:3/4;object-fit:cover;border-radius:6px;border:1px solid #e3ddd0;display:block}
+@media (min-width: 761px){nav a{padding:11px 13px;font-size:1.18rem}}
